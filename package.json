@@ -1,0 +1,10 @@
+{
+  "name": "Assemble546",
+  "version": "1.0.0",
+  "author": "Adrian Jacob",
+  "email": "adrianjacob@gmail.com",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "assemble": "^0.4.37"
+  }
+}
